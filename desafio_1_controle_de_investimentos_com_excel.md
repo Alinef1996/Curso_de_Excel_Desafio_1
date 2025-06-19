@@ -12,3 +12,7 @@
 *	Formatação Condicional: traz a facilidade de destacar informações específicas dentro de nossa tabela com símbolos ou cores de acordo com a condição que escolhermos. 
 
 Comentário: As aulas foram bastante interativas e o ensino bastante prático, gostei bastante, pois aprendi muitas coisas que não sabia e me ajudou a entender algumas funções dentro do Excel que não tinha o conhecimento para usá-las de forma correta.
+
+# 📚 Documentação
+
+[Documentação: controle de Investimentos](https://docs.google.com/spreadsheets/d/1M-prQFvFy_2RPyb3HVVvYHeqkwB5-8cEABIR-x1PK6w/edit?usp=drive_link)
